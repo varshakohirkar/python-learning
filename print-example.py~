@@ -1,0 +1,6 @@
+x = 3
+print (x)
+f = open('text-read', 'r')
+print (f)
+y= f.read()
+print y

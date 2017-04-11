@@ -1,0 +1,3 @@
+shoppinglist="milk,carrots,apples,eggs,water"
+shoppinglist[2]
+
