@@ -1,0 +1,5 @@
+f=open("line-program-textread.txt","w")
+f.write("sixth line\nseventh line")
+f.close()
+f=open("line-program-textread.txt","r")
+print(f.read())

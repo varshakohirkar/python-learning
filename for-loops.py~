@@ -1,0 +1,12 @@
+for i in range(0,5):
+     print(i)
+shoppinglist=["milk","lemons","groundnuts"]
+for i in shoppinglist:
+     print(i)
+tup1=("milk",1,2,"cups")
+for i in tup1:
+    print(i)
+for i in range(0,100,2)
+     print(i)
+
+

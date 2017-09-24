@@ -1,0 +1,7 @@
+f=open("line-program-textread.txt","r")
+g=open("copiedfile.txt","w")
+g.write(f.read())
+f.close()
+g.close()
+g=open("copiedfile.txt","r")
+print(g.read())

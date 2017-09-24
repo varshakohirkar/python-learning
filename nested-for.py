@@ -1,0 +1,29 @@
+for i in range(0,5):
+     for a in range(0,5):
+              print(a)
+
+      i=3
+      j=2
+      while j<i:
+            if i%j==0
+               i=i+1
+            else 
+               j=j+1
+               i=i+1
+            print(i+
+
+
+
+
+
+
+
+
+
+
+
+
+"is a prime no")
+
+      
+
